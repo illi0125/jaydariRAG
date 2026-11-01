@@ -1,0 +1,10 @@
+# Local environment files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Editor directories and files
+.vscode/
+.idea/
